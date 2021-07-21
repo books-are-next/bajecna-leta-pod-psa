@@ -10,7 +10,7 @@
       "languageCode": "cs"
     },
     "elements": {
-      "title": "",
+      "title": "MLP-licence-paragraf",
       "subtitle": "",
       "h2": "MLP-uroven2-kapitola",
       "h3": "MLP-uroven3-nadpis\nMLP-UROVEN3-NADPIS-I",
@@ -23,7 +23,7 @@
       "invisibleHrAfter": "",
       "blockquote": "",
       "figure": "MLP-obrazky",
-      "em": "MLP-znak-kurziva-11b\npara-style-override-2\nMLP-venovani",
+      "em": "MLP-znak-kurziva-11b\npara-style-override-2\nMLP-venovani\nMLP-scenicke-poznamky",
       "strong": "MLP-znak-tucne-11b",
       "remove": "",
       "ignore": ""
@@ -87,7 +87,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": ""
       },
       {
         "filename": "bajecna_leta_pod_psa_007.md",
@@ -277,9 +278,7 @@
       "identifier": "urn:uuid:1cfcd01e-1805-4b28-9320-aefe540844ad",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-07-21T08:54:05.697Z",
-      "isbn": "978-80-7602-728-2",
-      "languageCode": "cs"
+      "modified": "2021-07-21T09:11:16.246Z"
     },
     "chapters": [
       {
