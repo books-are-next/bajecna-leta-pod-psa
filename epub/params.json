@@ -26,7 +26,7 @@
       "em": "MLP-znak-kurziva-11b\npara-style-override-2\nMLP-venovani\nMLP-scenicke-poznamky",
       "strong": "MLP-znak-tucne-11b",
       "remove": "",
-      "ignore": ""
+      "ignore": "Hyperlink\nMLP-licence-hypertext\nMLP-licence-obrazek\nMLP-licence-text\nMLP-titulka-autor\nMLP-titulka-nazev\nMLP-tiraz-autor-a-nazev \nMLP-tex.+"
     },
     "structure": [
       {
@@ -278,7 +278,7 @@
       "identifier": "urn:uuid:1cfcd01e-1805-4b28-9320-aefe540844ad",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-07-21T09:11:16.246Z"
+      "modified": "2021-07-21T13:31:11.552Z"
     },
     "chapters": [
       {
