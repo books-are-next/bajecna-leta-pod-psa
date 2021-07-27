@@ -10,23 +10,23 @@
       "languageCode": "cs"
     },
     "elements": {
-      "title": "MLP-licence-paragraf",
+      "title": "MLP-uroven2-kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven2-kapitola",
+      "h2": "",
       "h3": "MLP-uroven3-nadpis\nMLP-UROVEN3-NADPIS-I",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "invisibleHr": "",
-      "invisibleHrBefore": "",
-      "invisibleHrAfter": "",
+      "invisibleHrBefore": "MLP-verse--12-12",
+      "invisibleHrAfter": "MLP-verse--12-12",
       "blockquote": "",
       "figure": "MLP-obrazky",
       "em": "MLP-znak-kurziva-11b\npara-style-override-2\nMLP-venovani\nMLP-scenicke-poznamky",
       "strong": "MLP-znak-tucne-11b",
       "remove": "",
-      "ignore": "Hyperlink\nMLP-licence-hypertext\nMLP-licence-obrazek\nMLP-licence-text\nMLP-titulka-autor\nMLP-titulka-nazev\nMLP-tiraz-autor-a-nazev \nMLP-tex.+"
+      "ignore": "Hyperlink\nMLP-licence-hypertext\nMLP-licence-obrazek\nMLP-licence-text\nMLP-titulka-autor\nMLP-titulka-nazev\nMLP-tiraz-autor-a-nazev \nMLP-tex.+\nMLP-citacni-str-rozdeleni\npara-style-override-3\nMLP-prima-re.+\nMLP-licence-paragraf\nframe-.\npara-style-override-1"
     },
     "structure": [
       {
@@ -278,7 +278,7 @@
       "identifier": "urn:uuid:1cfcd01e-1805-4b28-9320-aefe540844ad",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-07-21T13:31:11.552Z"
+      "modified": "2021-07-26T07:15:41.473Z"
     },
     "chapters": [
       {
