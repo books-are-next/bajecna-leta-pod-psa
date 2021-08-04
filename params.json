@@ -278,7 +278,7 @@
       "identifier": "urn:uuid:1cfcd01e-1805-4b28-9320-aefe540844ad",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-04T15:35:43.382Z"
+      "modified": "2021-08-04T17:34:36.167Z"
     },
     "chapters": [
       {
@@ -495,6 +495,7 @@
     "github": {
       "user": "books-are-next",
       "repo": "bajecna-leta-pod-psa"
-    }
+    },
+    "generatedAt": 1628098476808
   }
 }
