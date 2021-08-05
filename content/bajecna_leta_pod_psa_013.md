@@ -238,6 +238,8 @@ Rozhlédl se: Po poli hnal vítr prašná oblaka. Stromořadím na vzdálené si
 
 Jaruška ho vzala za ruku. Jeho napětí povolilo. Přestal se ostýchat. Vzpomněl si na dědečka, jak se s námahou opíral o polštář v hlavě nemocniční postele. Začal tiše, rozpačitě recitovat, ale s přibývajícími verši jeho hlas nabýval na jistotě:
 
+  
+
 „Jsem unaven a za smrt prosím Boha –  
 jen nevidět už, jak je bita ctnost,  
 a vynášena nicka přeubohá,  
@@ -252,6 +254,8 @@ a lumpové se posmívají pravdě
 a Dobro babě Zlu jak smejčí dům –  
 tím světem unaven tak rád bych zhas!  
 Leč tebe zůstavit mu na pospas?“
+
+  
 
 „Říkal jsi to moc hezky,“ řekla Jaruška.
 

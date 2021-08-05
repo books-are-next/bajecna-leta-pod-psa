@@ -107,6 +107,8 @@ aby se život rozletěl jak pták,
 aby se láska stala dobrou písní,  
 se kterou dá se letět do oblak!“
 
+  
+
 recitovala Kvidova matka se směsicí ironie a sentimentu, když se onoho odpoledne oblékala k domluvenému táboráku.
 
 „Kdybych se byl chtěl přátelit s oponenty režimu, mohl jsem zůstat v Praze,“ hořekoval naoko Kvidův otec, trochu okouzlený vlastní občanskou odvahou. „Neutíkal jsem na venkov proto, abych si s nimi opékal kuřata!“

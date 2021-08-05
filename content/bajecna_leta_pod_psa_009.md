@@ -8,10 +8,14 @@ Vilka pod Skřivánkem, kam se po matčině návratu z porodnice rodina definit
 
 Na jaře toho roku odjela se dvěma přítelkyněmi na zájezd do Německé demokratické republiky. Necelý týden zde žily uprostřed nádherné, probouzející se přírody Harckého lesa – avšak tím více skličoval babičku blížící se návrat do špinavého, zakouřeného města. Poslední dobou trpěla totiž některými dýchacími obtížemi, které bez výjimky přikládala na vrub ovzduší v Praze, a podobně jako obě její přítelkyně nevylučovala zcela možnost, že má rakovinu plic.
 
+  
+
 V restauraci v Harckém lese  
 vrchní kávu, dorty nese.  
 Když si každý dal,  
 volá: Noch einmal!
+
+  
 
 veršovala sice na černobílé pohlednici tradičně, ale pak následoval nezvyklý a podivný prozaický dodatek: Dýcháme kyslík do zásoby – snad nám v té Praze vydrží! napsala.
 
