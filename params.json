@@ -24,9 +24,9 @@
       "blockquote": "",
       "figure": "",
       "em": "MLP-znak-kurziva-11b\npara-style-override-2\nMLP-venovani\nMLP-scenicke-poznamky",
-      "strong": "MLP-znak-tucne-11b",
+      "strong": "MLP-znak-tucne-11b\nMLP-tiraz-autor-a-nazev",
       "remove": "",
-      "ignore": "Hyperlink\nMLP-licence-hypertext\nMLP-licence-obrazek\nMLP-licence-text\nMLP-titulka-autor\nMLP-titulka-nazev\nMLP-tiraz-autor-a-nazev \nMLP-tex.+\nMLP-citacni-str-rozdeleni\npara-style-override-3\nMLP-prima-re.+\nMLP-licence-paragraf\nframe-.\npara-style-override-1\nMLP-verse-drama",
+      "ignore": "Hyperlink\nMLP-licence-hypertext\nMLP-licence-obrazek\nMLP-licence-text\nMLP-titulka-autor\nMLP-titulka-nazev \nMLP-tex.+\nMLP-citacni-str-rozdeleni\npara-style-override-3\nMLP-prima-re.+\nMLP-licence-paragraf\nframe-.\npara-style-override-1\nMLP-verse-drama\nMLP-obrazky\nchar-style-override-1\nMLP-dopis-bez1radku",
       "invisibleHr": "",
       "invisibleHrBefore": "MLP-verse--12-12",
       "invisibleHrAfter": "MLP-verse--12-12"
@@ -281,7 +281,7 @@
       "identifier": "urn:uuid:1cfcd01e-1805-4b28-9320-aefe540844ad",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-05T07:12:14.239Z"
+      "modified": "2021-08-05T11:36:26.867Z"
     },
     "chapters": [
       {
@@ -499,6 +499,6 @@
       "user": "books-are-next",
       "repo": "bajecna-leta-pod-psa"
     },
-    "generatedAt": 1628147534922
+    "generatedAt": 1628163387732
   }
 }
