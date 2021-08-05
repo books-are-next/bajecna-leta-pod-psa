@@ -40,8 +40,8 @@ Stejně tak ovšem nelze tvrdit – jak nás na tomto místě ujišťují mnozí
 title: ''
 ---
 
-Michal Viewegh  
-Báječná léta pod psa
+**Michal Viewegh  
+Báječná léta pod psa**
 
 Edice Současná česká próza
 
