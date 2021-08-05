@@ -8,7 +8,7 @@ meta:
   author: Michal Viewegh
   publisher: Městská knihovna v Praze
   modified: '2021-07-21T08:54:05.697Z'
-  isbn: 978-80-7602-728-2
+  isbn: ''
   languageCode: cs
 chapters:
   - bajecna_leta_pod_psa_001.html

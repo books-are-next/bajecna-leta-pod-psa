@@ -6,7 +6,7 @@
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-07-21T08:54:05.697Z",
-      "isbn": "978-80-7602-728-2",
+      "isbn": "",
       "languageCode": "cs"
     },
     "elements": {
@@ -18,15 +18,18 @@
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
-      "invisibleHr": "",
-      "invisibleHrBefore": "MLP-verse--12-12",
-      "invisibleHrAfter": "MLP-verse--12-12",
+      "br": "",
+      "brBefore": "MLP-verse--12-12 \n",
+      "brAfter": "MLP-verse--12-12 \nMLP-verse--0-12 ",
       "blockquote": "",
-      "figure": "MLP-obrazky",
+      "figure": "",
       "em": "MLP-znak-kurziva-11b\npara-style-override-2\nMLP-venovani\nMLP-scenicke-poznamky",
       "strong": "MLP-znak-tucne-11b",
       "remove": "",
-      "ignore": "Hyperlink\nMLP-licence-hypertext\nMLP-licence-obrazek\nMLP-licence-text\nMLP-titulka-autor\nMLP-titulka-nazev\nMLP-tiraz-autor-a-nazev \nMLP-tex.+\nMLP-citacni-str-rozdeleni\npara-style-override-3\nMLP-prima-re.+\nMLP-licence-paragraf\nframe-.\npara-style-override-1"
+      "ignore": "Hyperlink\nMLP-licence-hypertext\nMLP-licence-obrazek\nMLP-licence-text\nMLP-titulka-autor\nMLP-titulka-nazev\nMLP-tiraz-autor-a-nazev \nMLP-tex.+\nMLP-citacni-str-rozdeleni\npara-style-override-3\nMLP-prima-re.+\nMLP-licence-paragraf\nframe-.\npara-style-override-1\nMLP-verse-drama",
+      "invisibleHr": "",
+      "invisibleHrBefore": "MLP-verse--12-12",
+      "invisibleHrAfter": "MLP-verse--12-12"
     },
     "structure": [
       {
@@ -278,7 +281,7 @@
       "identifier": "urn:uuid:1cfcd01e-1805-4b28-9320-aefe540844ad",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-04T17:34:36.167Z"
+      "modified": "2021-08-05T07:12:14.239Z"
     },
     "chapters": [
       {
@@ -496,6 +499,6 @@
       "user": "books-are-next",
       "repo": "bajecna-leta-pod-psa"
     },
-    "generatedAt": 1628098476808
+    "generatedAt": 1628147534922
   }
 }

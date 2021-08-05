@@ -8,8 +8,12 @@ Kvido se měl podle Zitiných předpokladů narodit v prvním srpnovém týdnu 
 
 Jeho matka měla v té době za sebou dvanáct divadelních sezón, avšak velkou většinu svých převážně dětských rolí v Jiráskových, Tylových, Kohoutových a Makarenkových hrách považovala za mírně kompromitující hříchy mládí. Studovala ostatně čtvrtý ročník práv a svou účast v komparsu Divadla čsl. armády na Vinohradech brala už jen jako nezávaznou hru (což jí ovšem na druhé straně nebránilo, aby víceméně náhodnou okolnost, že termín porodu spadá do divadelních prázdnin, neprezentovala před úspěšnějšími kolegyněmi coby věc naprosto samozřejmé profesionální kázně). Jakkoli to zní paradoxně, pod slupkou ochotnického zanícení byla Kvidova matka – někdejší hvězda školních představení – ve skutečnosti velmi stydlivá a kromě Zity ji také nesměl nikdo jiný prohlédnout. Paní Zita, primářka podolské porodnice a dlouholetá přítelkyně babičky Líby, která znala Kvidovu matku od dětství, se trpělivě snažila jejímu rozmaru vyhovět a přislíbila jí, že přeorganizuje služby lékařů tak, aby v onen kritický den neasistoval na sále ani jeden muž.
 
+  
+
 „U Zity v Podolí  
 žádný porod nebolí,“
+
+  
 
 veršovala u oběda babička Líba, a dokonce i otec Kvidova otce, dědeček Josef, ač apriorně skeptický vůči všemu komunistickému, zdravotnictví přirozeně nevyjímaje, byl ochoten připustit, že pravděpodobnost rozdrcení Kvidovy hlavičky porodnickými kleštěmi je tentokrát přece jen o něco nižší než jindy.
 
@@ -151,12 +155,16 @@ Dědeček toho během vycházek moc nenamluvil, ale stávalo se nejednou, že to
 
 Povzbuzována podobnými důkazy, domnívala se Kvidova matka – tak jako pochopitelně většina matek – že pod tukovými polštářky jejího syna se ukrývá výjimečný talent, který se dříve nebo později projeví. Už dvouletému Kvidovi proto hlasitě deklamovala své nejlepší divadelní role, a to nejen ty dětské, a také zdaleka nejen ty, v nichž skutečně hrála:
 
+  
+
 „Můj otec dokonal, sklán právě první zbraní,  
 kterou don Rodrigo dnes sevřel ve své dlani.  
 Ó plačte, oči mé, a roňte svoji sůl!  
 Půl mého života mi sklála druhou půl  
 a nutí mě se mstít, po oné kruté ráně,  
 za tu, co nemám už, na té, co zůstává mně,“
+
+  
 
 recitovala například Kvidovi často. Nemyslela si přirozeně, že by Corneillovým veršům nějak příliš rozuměl, ale doufala, že se jejich prostřednictvím stane Kvido někým alespoň trochu jiným než všechny ty děti odkojené Ferdou Mravencem a Špalíčkem českých pohádek.
 
@@ -176,8 +184,12 @@ Pavel Kohout, který sledoval zkoušku po Kvidově levici, na chlapce podezírav
 
 „Poslouchej, Pavle,“ zašeptal Kvido a zkušeně si olízl ukazováček, aby mohl snáze listovat stránkami:
 
+  
+
 „Ó matko molů, matko lidí, matko všeho,  
 dej molům sílu k návratu do světa přetěžkého,“
+
+  
 
 přečetl plynně.
 
@@ -191,8 +203,12 @@ Zkouška musela být na okamžik přerušena. Vlastimil Brodský i Vladimír Š
 
 Prstem ukázal na příslušný řádek v textu.
 
+  
+
 „…že jsou tak útlí a že tolik je jich zapotřebí  
 ve světě, kde stvůry mamutí se šklebí,“
+
+  
 
 dočetl Kvido.
 
@@ -256,10 +272,14 @@ Ještě o mnoho let později, když po tříhodinové manželské hádce sprcho
 
 Z Jalty – tak jako ostatně ze všech zájezdů – poslala babička černobílou pohlednici s vlastními verši:
 
+  
+
 Na krásné pláži poblíž Jalty  
 pořádáme malou party:  
 Koupeme se, povídáme,  
 háčkujeme, vzpomínáme!
+
+  
 
 stálo na lístku a následovalo obvyklé Všechny líbá vaše Líba!
 
