@@ -23,10 +23,10 @@
       "brAfter": "MLP-verse--12-12 \nMLP-verse--0-12 ",
       "blockquote": "",
       "figure": "",
-      "em": "MLP-znak-kurziva-11b\npara-style-override-2\nMLP-venovani\nMLP-scenicke-poznamky",
-      "strong": "MLP-znak-tucne-11b\nMLP-tiraz-autor-a-nazev",
+      "em": "MLP-znak-kurziva-11b\npara-style-override-2\nMLP-venovani\nMLP-scenicke-poznamky\nMLP-text-bez1radku--I---0-12",
+      "strong": "MLP-znak-tucne-11b\nMLP-tiraz-autor-a-nazev\nMLP-text-doprava--B\nMLP-text-bez1radku--B",
       "remove": "",
-      "ignore": "Hyperlink\nMLP-licence-hypertext\nMLP-licence-obrazek\nMLP-licence-text\nMLP-titulka-autor\nMLP-titulka-nazev \nMLP-tex.+\nMLP-citacni-str-rozdeleni\npara-style-override-3\nMLP-prima-re.+\nMLP-licence-paragraf\nframe-.\npara-style-override-1\nMLP-verse-drama\nMLP-obrazky\nchar-style-override-1\nMLP-dopis-bez1radku",
+      "ignore": "Hyperlink\nMLP-licence-hypertext\nMLP-licence-obrazek\nMLP-licence-text\nMLP-titulka-autor\nMLP-titulka-nazev \nMLP-text--12-12\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP-citacni-str-rozdeleni\npara-style-override-3\nMLP-prima-re.+\nMLP-licence-paragraf\nframe-.\npara-style-override-1\nMLP-obrazky\nchar-style-override-1\nMLP-dopis-bez1radku\nMLP-verse-drama\nMLP-text",
       "invisibleHr": "",
       "invisibleHrBefore": "MLP-verse--12-12",
       "invisibleHrAfter": "MLP-verse--12-12"
@@ -281,7 +281,7 @@
       "identifier": "urn:uuid:1cfcd01e-1805-4b28-9320-aefe540844ad",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-06T12:45:15.542Z"
+      "modified": "2021-08-06T13:07:02.885Z"
     },
     "chapters": [
       {
@@ -499,6 +499,6 @@
       "user": "books-are-next",
       "repo": "bajecna-leta-pod-psa"
     },
-    "generatedAt": 1628253916485
+    "generatedAt": 1628255223567
   }
 }
