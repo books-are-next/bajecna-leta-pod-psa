@@ -1,6 +1,8 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Báječná léta  
 pod psa
@@ -8,9 +10,7 @@ pod psa
 Michal Viewegh
 
 
----
-title: ''
----
+***
 
 Znění tohoto textu vychází z díla [Báječná léta pod psa](https://search.mlp.cz/cz/titul/bajecna-leta-pod-psa/2350299/) tak, jak bylo vydáno nakladatelstvím Petrov v Brně v roce 2002. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -27,18 +27,14 @@ Verze 1.0 z 2. 4. 2019.
 ![image002.jpg](./resources/image002_fmt.png)
 
 
----
-title: ''
----
+***
 
 _Tento román – jako koneckonců většina románů – je obvyklou směsicí tzv. pravdy a tzv. fikce. Ať už je poměr těchto složek jakýkoli, nelze rozhodně tvrdit – jak často tvrdí mnozí čtenáři – že postavy románu skutečně žijí a že události v něm zobrazené se skutečně staly.  
   
 Stejně tak ovšem nelze tvrdit – jak nás na tomto místě ujišťují mnozí autoři – že „osoby a události následujícího příběhu jsou zcela smyšlené“._
 
 
----
-title: ''
----
+***
 
 **Michal Viewegh  
 Báječná léta pod psa**

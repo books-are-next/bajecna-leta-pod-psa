@@ -10,7 +10,7 @@ meta:
   modified: '2021-07-21T08:54:05.697Z'
   isbn: ''
   languageCode: cs
-chapters:
+readingOrder:
   - bajecna_leta_pod_psa_001.html
   - bajecna_leta_pod_psa_002.html
   - bajecna_leta_pod_psa_006.html
@@ -31,6 +31,7 @@ chapters:
   - bajecna_leta_pod_psa_021.html
   - bajecna_leta_pod_psa_022.html
   - bajecna_leta_pod_psa_023.html
+  - colophon.html
 tocBase:
   - link: bajecna_leta_pod_psa_006.html
     title: I
@@ -74,5 +75,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
