@@ -10,8 +10,9 @@ meta:
   modified: '2021-07-21T08:54:05.697Z'
   isbn: ''
   languageCode: cs
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
-  - bajecna_leta_pod_psa_001.html
   - bajecna_leta_pod_psa_002.html
   - bajecna_leta_pod_psa_006.html
   - bajecna_leta_pod_psa_007.html
