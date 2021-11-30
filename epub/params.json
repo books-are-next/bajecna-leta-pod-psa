@@ -7,7 +7,9 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-07-21T08:54:05.697Z",
       "isbn": "",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -37,9 +39,9 @@
         "xhtml": "bajecna_leta_pod_psa_001.xhtml",
         "title": "",
         "id": 0,
-        "role": "break",
-        "numberedChildren": false,
+        "role": "cover",
         "inToc": false,
+        "listType": "plain",
         "children": []
       },
       {
@@ -48,8 +50,8 @@
         "title": "",
         "id": 1,
         "role": "break",
-        "numberedChildren": false,
         "inToc": false,
+        "listType": "plain",
         "children": []
       },
       {
@@ -58,8 +60,8 @@
         "title": "",
         "id": 2,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": false,
+        "listType": "plain",
         "children": []
       },
       {
@@ -68,8 +70,8 @@
         "title": "",
         "id": 3,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": false,
+        "listType": "plain",
         "children": []
       },
       {
@@ -78,8 +80,8 @@
         "title": "",
         "id": 4,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": false,
+        "listType": "plain",
         "children": []
       },
       {
@@ -88,10 +90,10 @@
         "title": "I",
         "id": 5,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
-        "children": [],
-        "subtitle": ""
+        "subtitle": "",
+        "listType": "plain",
+        "children": []
       },
       {
         "filename": "bajecna_leta_pod_psa_007.md",
@@ -99,8 +101,8 @@
         "title": "II. Z Kvidova deníku",
         "id": 6,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -109,8 +111,8 @@
         "title": "III",
         "id": 7,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -119,8 +121,8 @@
         "title": "IV",
         "id": 8,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -129,8 +131,8 @@
         "title": "V",
         "id": 9,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -139,8 +141,8 @@
         "title": "VI",
         "id": 10,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -149,8 +151,8 @@
         "title": "VII",
         "id": 11,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -159,8 +161,8 @@
         "title": "VIII",
         "id": 12,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -169,8 +171,8 @@
         "title": "IX",
         "id": 13,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -179,8 +181,8 @@
         "title": "X",
         "id": 14,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -189,8 +191,8 @@
         "title": "XI",
         "id": 15,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -199,8 +201,8 @@
         "title": "XII",
         "id": 16,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -209,8 +211,8 @@
         "title": "XIII",
         "id": 17,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -219,8 +221,8 @@
         "title": "XIV",
         "id": 18,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -229,8 +231,8 @@
         "title": "XV",
         "id": 19,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -239,8 +241,8 @@
         "title": "XVI",
         "id": 20,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -249,8 +251,8 @@
         "title": "XVII",
         "id": 21,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -259,8 +261,8 @@
         "title": "EPILOG",
         "id": 22,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -269,8 +271,8 @@
         "title": "",
         "id": 23,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       }
     ]
@@ -281,7 +283,7 @@
       "identifier": "urn:uuid:1cfcd01e-1805-4b28-9320-aefe540844ad",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-10T12:16:45.874Z"
+      "modified": "2021-11-30T15:10:58.165Z"
     },
     "chapters": [
       {
@@ -499,6 +501,6 @@
       "user": "books-are-next",
       "repo": "bajecna-leta-pod-psa"
     },
-    "generatedAt": 1628597806711
+    "generatedAt": 1638285058866
   }
 }
