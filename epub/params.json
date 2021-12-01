@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Báječná léta pod psa",
@@ -49,7 +50,7 @@
         "xhtml": "bajecna_leta_pod_psa_002.xhtml",
         "title": "",
         "id": 1,
-        "role": "break",
+        "role": "cover",
         "inToc": false,
         "listType": "plain",
         "children": []
@@ -504,3 +505,4 @@
     "generatedAt": 1638285058866
   }
 }
+
