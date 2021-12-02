@@ -2,4 +2,4 @@
 title: ''
 ---
 
-![obalka_bajecna_leta_pod_psa.jpg](./resources/obalka_bajecna_leta_s_k_fmt.png)
+![upoutavka_eknihy.jpg](./resources/upoutavka_eknihy_fmt.png)
