@@ -1,39 +1,19 @@
 {
   "author": "Michal Viewegh",
   "edition": "beletrie",
-  "identifier": "viewegh-bajecna-leta-pod-psa-335f686",
+  "identifier": "viewegh-bajecna-leta-pod-psa-08ab447",
   "isbn": "",
   "languagecode": "cs",
   "modified": "2021-07-21T08:54:05.697Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Báječná léta pod psa",
-  "revision": "335f686",
+  "revision": "08ab447",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 21:49:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638395360147
+    "date": "Thu Dec 02 2021 07:11:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638429090435
   },
   "documents": [
-    {
-      "title": "Báječná léta pod psa",
-      "file": "bajecna_leta_pod_psa_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "bajecna_leta_pod_psa_006.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "I • Báječná léta pod psa",
       "file": "bajecna_leta_pod_psa_006.html",
@@ -41,8 +21,8 @@
       "chars": 43259,
       "ideas": 280,
       "role": "chapter",
-      "order": 1,
-      "prev": "bajecna_leta_pod_psa_002.html",
+      "order": 0,
+      "prev": null,
       "next": "bajecna_leta_pod_psa_007.html",
       "toc": [
         {
@@ -61,7 +41,7 @@
       "chars": 12620,
       "ideas": 46,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "bajecna_leta_pod_psa_006.html",
       "next": "bajecna_leta_pod_psa_008.html",
       "toc": [
@@ -81,7 +61,7 @@
       "chars": 26472,
       "ideas": 263,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "bajecna_leta_pod_psa_007.html",
       "next": "bajecna_leta_pod_psa_009.html",
       "toc": [
@@ -101,7 +81,7 @@
       "chars": 48697,
       "ideas": 368,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "bajecna_leta_pod_psa_008.html",
       "next": "bajecna_leta_pod_psa_010.html",
       "toc": [
@@ -121,7 +101,7 @@
       "chars": 46707,
       "ideas": 344,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "bajecna_leta_pod_psa_009.html",
       "next": "bajecna_leta_pod_psa_011.html",
       "toc": [
@@ -141,7 +121,7 @@
       "chars": 12537,
       "ideas": 94,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "bajecna_leta_pod_psa_010.html",
       "next": "bajecna_leta_pod_psa_012.html",
       "toc": [
@@ -161,7 +141,7 @@
       "chars": 15391,
       "ideas": 111,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "bajecna_leta_pod_psa_011.html",
       "next": "bajecna_leta_pod_psa_013.html",
       "toc": [
@@ -181,7 +161,7 @@
       "chars": 13875,
       "ideas": 140,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "bajecna_leta_pod_psa_012.html",
       "next": "bajecna_leta_pod_psa_014.html",
       "toc": [
@@ -201,7 +181,7 @@
       "chars": 16123,
       "ideas": 148,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "bajecna_leta_pod_psa_013.html",
       "next": "bajecna_leta_pod_psa_015.html",
       "toc": [
@@ -221,7 +201,7 @@
       "chars": 10003,
       "ideas": 61,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "bajecna_leta_pod_psa_014.html",
       "next": "bajecna_leta_pod_psa_016.html",
       "toc": [
@@ -241,7 +221,7 @@
       "chars": 16182,
       "ideas": 124,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "bajecna_leta_pod_psa_015.html",
       "next": "bajecna_leta_pod_psa_017.html",
       "toc": [
@@ -261,7 +241,7 @@
       "chars": 11452,
       "ideas": 110,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "bajecna_leta_pod_psa_016.html",
       "next": "bajecna_leta_pod_psa_018.html",
       "toc": [
@@ -281,7 +261,7 @@
       "chars": 8406,
       "ideas": 121,
       "role": "chapter",
-      "order": 13,
+      "order": 12,
       "prev": "bajecna_leta_pod_psa_017.html",
       "next": "bajecna_leta_pod_psa_019.html",
       "toc": [
@@ -301,7 +281,7 @@
       "chars": 10531,
       "ideas": 70,
       "role": "chapter",
-      "order": 14,
+      "order": 13,
       "prev": "bajecna_leta_pod_psa_018.html",
       "next": "bajecna_leta_pod_psa_020.html",
       "toc": [
@@ -321,7 +301,7 @@
       "chars": 2754,
       "ideas": 45,
       "role": "chapter",
-      "order": 15,
+      "order": 14,
       "prev": "bajecna_leta_pod_psa_019.html",
       "next": "bajecna_leta_pod_psa_021.html",
       "toc": [
@@ -341,7 +321,7 @@
       "chars": 8330,
       "ideas": 52,
       "role": "chapter",
-      "order": 16,
+      "order": 15,
       "prev": "bajecna_leta_pod_psa_020.html",
       "next": "bajecna_leta_pod_psa_022.html",
       "toc": [
@@ -361,7 +341,7 @@
       "chars": 1150,
       "ideas": 9,
       "role": "chapter",
-      "order": 17,
+      "order": 16,
       "prev": "bajecna_leta_pod_psa_021.html",
       "next": "bajecna_leta_pod_psa_023.html",
       "toc": [
@@ -381,7 +361,7 @@
       "chars": 4118,
       "ideas": 18,
       "role": "chapter",
-      "order": 18,
+      "order": 17,
       "prev": "bajecna_leta_pod_psa_022.html",
       "next": "colophon.html",
       "toc": [
