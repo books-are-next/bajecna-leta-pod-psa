@@ -1,5 +1,4 @@
 {
-  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Báječná léta pod psa",
@@ -50,7 +49,7 @@
         "xhtml": "bajecna_leta_pod_psa_002.xhtml",
         "title": "",
         "id": 1,
-        "role": "cover",
+        "role": "break",
         "inToc": false,
         "listType": "plain",
         "children": []
@@ -284,7 +283,7 @@
       "identifier": "urn:uuid:1cfcd01e-1805-4b28-9320-aefe540844ad",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-30T15:10:58.165Z"
+      "modified": "2021-12-02T07:10:20.638Z"
     },
     "chapters": [
       {
@@ -502,7 +501,6 @@
       "user": "books-are-next",
       "repo": "bajecna-leta-pod-psa"
     },
-    "generatedAt": 1638285058866
+    "generatedAt": 1638429021359
   }
 }
-
