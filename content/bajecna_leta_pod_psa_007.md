@@ -1,5 +1,6 @@
 ---
 title: "II. Z\_Kvidova deníku"
+contentType: prose
 ---
 
 **20\. září 1968**

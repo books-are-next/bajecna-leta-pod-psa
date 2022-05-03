@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Báječná léta pod psa
@@ -14,6 +15,7 @@ meta:
   publisherShort: mkp
 readingOrder:
   - bajecna_leta_pod_psa_002.html
+  - bajecna_leta_pod_psa_005.html
   - bajecna_leta_pod_psa_006.html
   - bajecna_leta_pod_psa_007.html
   - bajecna_leta_pod_psa_008.html
@@ -34,6 +36,9 @@ readingOrder:
   - bajecna_leta_pod_psa_023.html
   - colophon.html
 tocBase:
+  - link: bajecna_leta_pod_psa_005.html
+    title: Tento román...
+    hiddenTitle: true
   - link: bajecna_leta_pod_psa_006.html
     title: I
   - link: bajecna_leta_pod_psa_007.html

@@ -1,5 +1,6 @@
 ---
 title: XV
+contentType: prose
 ---
 
 _Návštěvní den v kutnohorské nemocnici. Novopečení otcové a ostatní příbuzní stojí na pošlapaném trávníku před pavilónem porodnice. Rodičky se vyklánějí z oken ve třetím patře._

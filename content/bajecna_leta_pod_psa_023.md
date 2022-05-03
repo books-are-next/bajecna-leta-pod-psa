@@ -1,5 +1,6 @@
 ---
 title: EPILOG
+contentType: prose
 ---
 
 V červnu 1989 je Paco přijat na Filozofickou fakultu UK v Praze. Krátce po listopadové revoluci přijíždí v čele studentské delegace do sázavských skláren. Předseda CZV KSČ s. Šperk nařizuje vrátným nevpouštět studenty do závodu. Po krátké fyzické potyčce se svým otcem přeleze Paco s ostatními plot a beseda s pracujícími se přece jen uskuteční (Pacova přítelkyně, studentka 1. ročníku právnické fakulty, zde Kvidově matce shovívavě objasní podstatu občanského práva).
