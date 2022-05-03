@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Babiččina náhlá smrt odvedla Kvida od práce na románu fakticky jen na několik dní; když se však po pohřbu k rukopisu opět vrátil, cítil vůči němu jakousi obtížně definovatelnou apatii a sám sebe se dotazoval, jak a proč vůbec pokračovat.

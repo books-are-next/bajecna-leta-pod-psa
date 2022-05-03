@@ -77,12 +77,13 @@
       {
         "filename": "bajecna_leta_pod_psa_005.md",
         "xhtml": "bajecna_leta_pod_psa_005.xhtml",
-        "title": "",
+        "title": "Tento román...",
         "id": 4,
-        "role": "colophon",
-        "inToc": false,
+        "role": "chapter",
+        "inToc": true,
         "listType": "plain",
-        "children": []
+        "children": [],
+        "hiddenTitle": true
       },
       {
         "filename": "bajecna_leta_pod_psa_006.md",
@@ -283,7 +284,7 @@
       "identifier": "urn:uuid:1cfcd01e-1805-4b28-9320-aefe540844ad",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T07:23:40.657Z"
+      "modified": "2019-04-04T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -501,6 +502,6 @@
       "user": "books-are-next",
       "repo": "bajecna-leta-pod-psa"
     },
-    "generatedAt": 1638429821543
+    "generatedAt": 1651579878967
   }
 }
