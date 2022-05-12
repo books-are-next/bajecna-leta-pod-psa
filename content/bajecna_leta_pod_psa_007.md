@@ -1,5 +1,5 @@
 ---
-title: "II. Z\_Kvidova deníku"
+title: "II\\. Z\_Kvidova deníku"
 contentType: prose
 ---
 
