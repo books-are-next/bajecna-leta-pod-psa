@@ -1,22 +1,46 @@
 {
-  "author": "Michal Viewegh",
-  "edition": "beletrie",
-  "identifier": "viewegh-bajecna-leta-pod-psa-7d96604",
-  "isbn": "",
-  "languagecode": "cs",
-  "modified": "2021-07-21T08:54:05.697Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Báječná léta pod psa",
-  "revision": "7d96604",
+  "author": "Michal Viewegh",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "viewegh-bajecna-leta-pod-psa-2e58782",
+  "revision": "2e58782",
+  "readingOrder": [
+    "promo.html",
+    "bajecna_leta_pod_psa_005.html",
+    "bajecna_leta_pod_psa_006.html",
+    "bajecna_leta_pod_psa_007.html",
+    "bajecna_leta_pod_psa_008.html",
+    "bajecna_leta_pod_psa_009.html",
+    "bajecna_leta_pod_psa_010.html",
+    "bajecna_leta_pod_psa_011.html",
+    "bajecna_leta_pod_psa_012.html",
+    "bajecna_leta_pod_psa_013.html",
+    "bajecna_leta_pod_psa_014.html",
+    "bajecna_leta_pod_psa_015.html",
+    "bajecna_leta_pod_psa_016.html",
+    "bajecna_leta_pod_psa_017.html",
+    "bajecna_leta_pod_psa_018.html",
+    "bajecna_leta_pod_psa_019.html",
+    "bajecna_leta_pod_psa_020.html",
+    "bajecna_leta_pod_psa_021.html",
+    "bajecna_leta_pod_psa_022.html",
+    "bajecna_leta_pod_psa_023.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue May 03 2022 12:12:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651579940221
+    "date": "Thu May 12 2022 10:35:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351727262
   },
   "documents": [
     {
-      "title": "Báječná léta pod psa",
-      "file": "bajecna_leta_pod_psa_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +48,7 @@
       "order": 0,
       "prev": null,
       "next": "bajecna_leta_pod_psa_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Báječná léta pod psa",
@@ -42,7 +58,7 @@
       "ideas": 2,
       "role": "chapter",
       "order": 1,
-      "prev": "bajecna_leta_pod_psa_002.html",
+      "prev": "promo.html",
       "next": "bajecna_leta_pod_psa_006.html",
       "toc": [
         {
@@ -55,7 +71,7 @@
       ]
     },
     {
-      "title": "I • Báječná léta pod psa",
+      "title": "I",
       "file": "bajecna_leta_pod_psa_006.html",
       "words": 6814,
       "chars": 43259,
@@ -75,7 +91,7 @@
       ]
     },
     {
-      "title": "II. Z Kvidova deníku • Báječná léta pod psa",
+      "title": "II. Z Kvidova deníku",
       "file": "bajecna_leta_pod_psa_007.html",
       "words": 2141,
       "chars": 12620,
@@ -95,7 +111,7 @@
       ]
     },
     {
-      "title": "III • Báječná léta pod psa",
+      "title": "III",
       "file": "bajecna_leta_pod_psa_008.html",
       "words": 4342,
       "chars": 26472,
@@ -115,7 +131,7 @@
       ]
     },
     {
-      "title": "IV • Báječná léta pod psa",
+      "title": "IV",
       "file": "bajecna_leta_pod_psa_009.html",
       "words": 7807,
       "chars": 48697,
@@ -135,7 +151,7 @@
       ]
     },
     {
-      "title": "V • Báječná léta pod psa",
+      "title": "V",
       "file": "bajecna_leta_pod_psa_010.html",
       "words": 7392,
       "chars": 46707,
@@ -155,7 +171,7 @@
       ]
     },
     {
-      "title": "VI • Báječná léta pod psa",
+      "title": "VI",
       "file": "bajecna_leta_pod_psa_011.html",
       "words": 2015,
       "chars": 12537,
@@ -175,7 +191,7 @@
       ]
     },
     {
-      "title": "VII • Báječná léta pod psa",
+      "title": "VII",
       "file": "bajecna_leta_pod_psa_012.html",
       "words": 2484,
       "chars": 15391,
@@ -195,7 +211,7 @@
       ]
     },
     {
-      "title": "VIII • Báječná léta pod psa",
+      "title": "VIII",
       "file": "bajecna_leta_pod_psa_013.html",
       "words": 2295,
       "chars": 13875,
@@ -215,7 +231,7 @@
       ]
     },
     {
-      "title": "IX • Báječná léta pod psa",
+      "title": "IX",
       "file": "bajecna_leta_pod_psa_014.html",
       "words": 2576,
       "chars": 16123,
@@ -235,7 +251,7 @@
       ]
     },
     {
-      "title": "X • Báječná léta pod psa",
+      "title": "X",
       "file": "bajecna_leta_pod_psa_015.html",
       "words": 1613,
       "chars": 10003,
@@ -255,7 +271,7 @@
       ]
     },
     {
-      "title": "XI • Báječná léta pod psa",
+      "title": "XI",
       "file": "bajecna_leta_pod_psa_016.html",
       "words": 2598,
       "chars": 16182,
@@ -275,7 +291,7 @@
       ]
     },
     {
-      "title": "XII • Báječná léta pod psa",
+      "title": "XII",
       "file": "bajecna_leta_pod_psa_017.html",
       "words": 1817,
       "chars": 11452,
@@ -295,7 +311,7 @@
       ]
     },
     {
-      "title": "XIII • Báječná léta pod psa",
+      "title": "XIII",
       "file": "bajecna_leta_pod_psa_018.html",
       "words": 1305,
       "chars": 8406,
@@ -315,7 +331,7 @@
       ]
     },
     {
-      "title": "XIV • Báječná léta pod psa",
+      "title": "XIV",
       "file": "bajecna_leta_pod_psa_019.html",
       "words": 1750,
       "chars": 10531,
@@ -335,7 +351,7 @@
       ]
     },
     {
-      "title": "XV • Báječná léta pod psa",
+      "title": "XV",
       "file": "bajecna_leta_pod_psa_020.html",
       "words": 447,
       "chars": 2754,
@@ -355,7 +371,7 @@
       ]
     },
     {
-      "title": "XVI • Báječná léta pod psa",
+      "title": "XVI",
       "file": "bajecna_leta_pod_psa_021.html",
       "words": 1292,
       "chars": 8330,
@@ -375,7 +391,7 @@
       ]
     },
     {
-      "title": "XVII • Báječná léta pod psa",
+      "title": "XVII",
       "file": "bajecna_leta_pod_psa_022.html",
       "words": 180,
       "chars": 1150,
@@ -395,7 +411,7 @@
       ]
     },
     {
-      "title": "EPILOG • Báječná léta pod psa",
+      "title": "EPILOG",
       "file": "bajecna_leta_pod_psa_023.html",
       "words": 617,
       "chars": 4118,
@@ -415,11 +431,11 @@
       ]
     },
     {
-      "title": "Tiráž • Báječná léta pod psa",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 151,
-      "chars": 960,
-      "ideas": 23,
+      "words": 131,
+      "chars": 819,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "bajecna_leta_pod_psa_023.html",
@@ -437,9 +453,9 @@
   ],
   "totals": {
     "all": {
-      "words": 49715,
-      "chars": 310025,
-      "ideas": 2433
+      "words": 49695,
+      "chars": 309884,
+      "ideas": 2427
     },
     "chapters": {
       "words": 49556,

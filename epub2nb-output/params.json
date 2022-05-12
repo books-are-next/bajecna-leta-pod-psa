@@ -49,7 +49,7 @@
         "xhtml": "bajecna_leta_pod_psa_002.xhtml",
         "title": "",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "inToc": false,
         "listType": "plain",
         "children": []
@@ -324,7 +324,7 @@
         "xhtml": "bajecna_leta_pod_psa_006.xhtml"
       },
       {
-        "titleSuggest": "II. Z Kvidova deníku",
+        "titleSuggest": "II\\. Z Kvidova deníku",
         "subtitleSuggest": "",
         "filename": "bajecna_leta_pod_psa_007.md",
         "xhtml": "bajecna_leta_pod_psa_007.xhtml"
@@ -502,6 +502,6 @@
       "user": "books-are-next",
       "repo": "bajecna-leta-pod-psa"
     },
-    "generatedAt": 1651579878967
+    "generatedAt": 1652351277186
   }
 }

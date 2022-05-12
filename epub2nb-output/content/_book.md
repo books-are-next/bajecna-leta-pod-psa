@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - bajecna_leta_pod_psa_002.html
+  - promo.html
   - bajecna_leta_pod_psa_005.html
   - bajecna_leta_pod_psa_006.html
   - bajecna_leta_pod_psa_007.html
