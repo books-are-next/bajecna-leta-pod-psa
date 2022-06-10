@@ -3,6 +3,8 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 ### 1
 
 Kvidův otec se již několik dní před svatbou svého syna definitivně rozhodl, že oněch přibližně jedenáct set metrů, které dělily jeho garáž od obřadní síně, pojede, jak se říká, _na jistotu_. Své předsevzetí pak splnil beze zbytku, a to i navzdory tomu, že rychlost jízdy, kterou volil, by se snad lépe hodila k pohřbu. Ignoroval nechápavé troubení vozů jedoucích za ním i stále se zvětšující mezeru před ním, svíral pevně volant a jeho pohled byl chladnokrevně soustředěný.
@@ -31,25 +33,33 @@ Ke zděšení Kvidova otce se pod státním znakem vedle sametové opony náhle 
 
 Schylovalo se k přednesu básně. Malý pionýr uchopil svoji partnerku za ruku a začal. Soudružka Šperková na Jarušku zamrkala.
 
-  
+</section>
+
+<section>
 
 „Ta zem je divukrásná  
 a plná lahody.  
 Ach, tam bys byla šťastna!  
 Je to zem svobody,“
 
-  
+</section>
+
+<section>
 
 recitoval mezitím chlapec. Když došel ke slovům „tam bys byla šťastna“, otočil k dívce rychle tvář. Soudružka Šperková kývla. Kvido pohlédl na Jarušku. Všiml si, že se jí pod závojíčkem pohybují rty.
 
-  
+</section>
+
+<section>
 
 „Potok si cestu klestí  
 a časem prorve břeh.  
 Náš klid a naše štěstí  
 je jenom v štěstí všech,“
 
-  
+</section>
+
+<section>
 
 skončili dvojhlasně mladí umělci.
 
@@ -244,3 +254,5 @@ Nahlédli do dílny a Míla polekaně uskočil.
 „Já?“ řekl Míla. „Dělníka.“
 
 „To nemá chybu,“ řekl Kvido. „Ani nevíš, jak dlouho jsem tě sháněl.“
+
+</section>

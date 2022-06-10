@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 ### 1
 
 Kvidův otec měl letět do Anglie počátkem července. Babička Líba, která díky důslednému střídání žemlovky, tykvových placek, kadeřávkových karbanátků, mrkvových smaženek, škubánků, fazolek s rýží a zapečeného černého kořene v týdenním rodinném jídelníčku konečně našetřila na vytoužený okružní zájezd po Itálii, odlétala již koncem května.
@@ -13,7 +15,9 @@ Skutečnost, že odjíždí dřív než Kvidův otec, byla pro babičku zdrojem 
 
 Dvacátého května odjela babička do Prahy a dědeček Jiří ji doprovodil na letiště. Za devět dní přišla do Sázavy černobílá pohlednice s interiérem kostela S. MARIA GLORIOSA DEI FRARI v Benátkách.
 
-  
+</section>
+
+<section>
 
 Vozíme se autokarem,  
 samé ženy, skoro harém,  
@@ -22,7 +26,9 @@ pod azurovou oblohou.
 Když únavou klopýtáme,  
 gondolu si přivoláme!
 
-  
+</section>
+
+<section>
 
 stálo na ní a také tentokrát následoval prozaický dovětek:
 
@@ -582,14 +588,18 @@ Než však začal doopravdy pádlovat, ukázal ještě své kolegyni techniku t�
 
 Počasí se opravdu vyvedlo: Foukal svěží větřík, rákosí tiše šelestilo a slunce pálilo ze všech svých posledních sil. Když překonali první říční ohyb, Mirjana, chtějíc si patrně dopřát to, co si v Pule mohou dovolit jen zahraniční turistky, si přetáhla tílko přes hlavu. Položila pádlo, opatrně se otočila a usedla na příď, čelem k slunci i oběma členům posádky. Zvrátila hlavu proti slunci, přimhouřila oči a začala si broukat jakýsi popěvek, jehož slova si Kvido – vzhledem k okolnostem – navždy zapamatoval.
 
-  
+</section>
+
+<section>
 
 „Procvale su rože i vijole,  
 procvala je trava i murava,  
 procvala je lika i zelenika,  
 procvale su višnje i čerišnje…,“
 
-  
+</section>
+
+<section>
 
 zpívala tiše Mirjana.
 
@@ -688,3 +698,5 @@ Kvido zrudl a na tváři se mu objevil pokřivený úsměv.
 „Takhle si je vybíráte,“ řekl vzdorně.
 
 „Já ne!“ řekla Jaruška. „A nechci, abys o mně psal!“
+
+</section>

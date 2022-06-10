@@ -3,6 +3,8 @@ title: XIV
 contentType: prose
 ---
 
+<section>
+
 ### 1
 
 Týden po svatbě se v Praze Kvido znovu sešel s redaktorem. Toho dne definitivně pochopil, že naděje na vydání Případu dvanáctého patra je prakticky nulová, a to zcela bez ohledu na to, zda se mu podaří, či nepodaří implantovat do textu postavu dělníka Míly.
@@ -140,3 +142,5 @@ Když se však Kvido zhruba o pět hodin později vyšplhal na podpěrnou konst
 Hned jak vstoupil do zadní místnosti vrátnice, uviděl na stole plné skleničky. Všichni tři strážní stáli, odhalujíce v úsměvu zažloutlé zubní protézy.
 
 „Teď volali z Hory,“ řekl velitel. „Máš holku, ty srabe!“
+
+</section>
