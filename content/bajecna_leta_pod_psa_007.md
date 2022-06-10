@@ -3,6 +3,8 @@ title: "II\\. Z\_Kvidova deníku"
 contentType: prose
 ---
 
+<section>
+
 **20\. září 1968**
 
 _Stěhujeme se do jakési Sázavy! Nikdo mi nedokázal srozumitelně říci proč. Řekli mi jenom, že jsem zmeškal začátek školního roku a že budu v Sázavě chodit ještě jeden rok do školky. Samé Jobovy zvěsti! Nikdo navíc přesně neví, kde ta Sázava je. Na mapě ČSSR jsme to nenašli. Otec řekl, že přinese zítra větší. Pořád si zpívá Kaťuši. Matka mlčí._
@@ -92,3 +94,5 @@ _Dneska jsme měli učitelku Hájkovou a všude panoval příjemný poklid. Dop
 **25\. listopadu 1968**
 
 _Včera byla sobota. Měli jsme jet na Český Šternberk, ale otec mi místo toho hodinu vyhrožoval, že má dva svědky, kteří prý potvrdí, že jsem po zásahu do obrazu vykřikl: „Trefa! Trefa!“ Přiznal jsem, že jsem to opravdu vykřikl, avšak jen proto, abych před dětmi zakryl neúspěch v kuželkách. Otec vzdychl a odešel do sklepa dodělat květinový stojánek. Matka mi sdělila, že otec potřebuje psychiatra a že na Šternberk pojedeme po obědě. Před obědem se ale otec sekl půlkulatým dlátem do stehenní kosti, takže se jelo na pohotovost do Uhlířských Janovic. Vezl nás ing. Zvára, protože otec odmítl v tomto stavu řídit. Otec se po celou dobu jízdy smál podivným smíchem, mluvil stále o jakémsi „Šperkovi z cézetvé“. Bylo mi zima a stýskalo se mi po Praze. Půjdu napsat dědečkovi._
+
+</section>

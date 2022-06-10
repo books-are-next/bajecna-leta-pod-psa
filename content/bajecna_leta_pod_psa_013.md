@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 ### 1
 
 Kvidova matka měla s poštou v Sázavě problémy již mnohokrát. Kromě těch několika odlepených cizokrajných známek, které klidně oželela, se jí zde ztratily i celé dopisy, a dokonce i jedna nebo dvě knížky, které si objednala v Klubu čtenářů; doporučené zásilky, které byly adresovány do zaměstnání, jí naopak na poště nesmyslně nechávali, takže si pro ně musela po práci osobně dojít. Většinou to však odbyla mávnutím ruky.
@@ -239,7 +241,9 @@ Rozhlédl se: Po poli hnal vítr prašná oblaka. Stromořadím na vzdálené si
 
 Jaruška ho vzala za ruku. Jeho napětí povolilo. Přestal se ostýchat. Vzpomněl si na dědečka, jak se s námahou opíral o polštář v hlavě nemocniční postele. Začal tiše, rozpačitě recitovat, ale s přibývajícími verši jeho hlas nabýval na jistotě:
 
-  
+</section>
+
+<section>
 
 „Jsem unaven a za smrt prosím Boha –  
 jen nevidět už, jak je bita ctnost,  
@@ -256,7 +260,9 @@ a Dobro babě Zlu jak smejčí dům –
 tím světem unaven tak rád bych zhas!  
 Leč tebe zůstavit mu na pospas?“
 
-  
+</section>
+
+<section>
 
 „Říkal jsi to moc hezky,“ řekla Jaruška.
 
@@ -271,3 +277,5 @@ V očích pod šátkem náhle zajiskřilo.
 „Půjdeme zítra sáňkovat?“ otázala se Jaruška.
 
 Tak měl ten Kohout pravdu, pomyslel si Kvido. Normálně jsem ji ukecal.
+
+</section>

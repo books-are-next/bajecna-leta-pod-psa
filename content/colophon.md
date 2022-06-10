@@ -2,17 +2,20 @@
 title: Tiráž
 ---
 
+<section>  
 **Michal Viewegh    
 Báječná léta pod psa**  
 Edice Současná česká próza  
-Ilustrace na obálce z Pixabay.com  
 Redakce Jaroslava Bednářová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 1. elektronické vydání  
-1. vydání z 12. 5. 2022.
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
+
+<section>
 
 Znění tohoto textu vychází z díla [Báječná léta pod psa](https://search.mlp.cz/cz/titul/bajecna-leta-pod-psa/2350299/) tak, jak bylo vydáno nakladatelstvím Petrov v Brně v roce 2002. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -26,3 +29,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 
 ![image002.jpg](./resources/image002_fmt.png)
+
+</section>

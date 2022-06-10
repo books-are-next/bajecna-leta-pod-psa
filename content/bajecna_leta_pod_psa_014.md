@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 ### 1
 
 Na jaře příštího roku, těsně před tím, než začal Kvidův otec definitivně šeptat, zjistila Kvidova matka, když jednou připravovala snídani, že se ztratily veškeré skleničky a skleněné hrnky, které kdysi přinesl z továrny. Udiveně prohledala všechny police a skříňky, ale všechno, co objevila, byly jen dva prastaré porcelánové hrníčky s ulomenými uchy a jedna sklínka od meruňkové marmelády. Nakonec ji napadlo podívat se do odpadkového koše. Šel otevřít jen ztěžka, a jak byl plný střepů, zachrastil.
@@ -121,14 +123,18 @@ Zpočátku se skutečně zdálo, že pobyt na horách má na otce příznivý ú
 
 Bezesporu nejvíce však rodinná dovolená svědčila právě Pacovi. Vzepřel se měšťáckému spaní v chatě a na okraji lesa si ve spletenci větví křivě rostoucí břízy brzy vybudoval improvizované visuté lůžko, kde pak strávil všechny následující noci. Přes den se učil vázat uzly, lezl na skály a cvičil se v házení nože.
 
-  
+</section>
+
+<section>
 
 „Zasvištěla smyčka lasa,  
 štíhlý ryzák tiše zařehtal,  
 mladý kovboj prach si z šatů střásá,  
 vesele si přitom zazpívááál!“
 
-  
+</section>
+
+<section>
 
 zpíval parodicky Kvido, když se jeho mladší bratr, špinavý a opálený, výjimečně objevil ve dveřích pokoje – obvykle jen proto, aby mu matka vyndala klíšťata.
 
@@ -180,14 +186,18 @@ Kvido vytáhl z knížky černobílou pohlednici.
 
 „Kde jsi ji sehnal?“ usmívala se matka. Obrátila ji a četla:
 
-  
+</section>
+
+<section>
 
 „Na chalupě v horském lese  
 žemlovka se na stůl nese.  
 Nechceme mít nijaký  
 abstinenční příznaky!“
 
-  
+</section>
+
+<section>
 
 „Bezvadný!“ smál se Kvidův otec.
 
@@ -298,3 +308,5 @@ Kvido se postupem doby o ekonomii leccos dozvěděl, takže pak před spolužá
 Kvido by byl sice o sobě raději slyšel, že je spisovatel, ale bylo to lepší než nic. S otcovým překvapivě nesmělým návrhem, zda by se nechtěl přihlásit ke studiu na Vysoké škole ekonomické, souhlasil dobrovolně.
 
 „V onom mém rozhodnutí sehrály klíčovou úlohu celkem tři věci,“ vyprávěl později Kvido. „Vděk za péči, kterou mi nemocný otec v té době věnoval, dětinská touha přivést rodičům ze zahraniční služební cesty mikrovlnnou troubu a jugoslávská píseň Procvale su rože i vijole.“
+
+</section>

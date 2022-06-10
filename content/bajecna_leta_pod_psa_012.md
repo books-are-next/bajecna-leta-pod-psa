@@ -3,6 +3,8 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 ### 1
 
 Většinou, když Kvido přemítal, co jeho otce mohlo tak zlomit, že si při svém přeřazování na jinou práci vybral z pěti nabízených míst, kde byla i tři místa úřednická, právě místo člena závodní stráže, nemyslíval ani tak na onen trochu záhadný výslech na Státní bezpečnosti, o němž mu otec odmítal říct cokoli bližšího, ani na onen rozhlasový pořad s názvem Případ Kohout, kde o organizovaném seskupování nepřátel socialistického zřízení v místě dramatikova stávajícího pobytu hovořil mezi jinými i soudruh Šperk; myslíval na inženýra Zváru.
@@ -222,3 +224,5 @@ _Kratší pauza._
 **OTEC** (_křičí_): Vezmi mu to – nebo to vyrvu ze zdi!!
 
 **KVIDO**: …Ne, to byl otec… Musím ti dát mámu… Tak v neděli ahoj. Ahoj!
+
+</section>

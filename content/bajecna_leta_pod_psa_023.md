@@ -3,6 +3,8 @@ title: EPILOG
 contentType: prose
 ---
 
+<section>
+
 V červnu 1989 je Paco přijat na Filozofickou fakultu UK v Praze. Krátce po listopadové revoluci přijíždí v čele studentské delegace do sázavských skláren. Předseda CZV KSČ s. Šperk nařizuje vrátným nevpouštět studenty do závodu. Po krátké fyzické potyčce se svým otcem přeleze Paco s ostatními plot a beseda s pracujícími se přece jen uskuteční (Pacova přítelkyně, studentka 1. ročníku právnické fakulty, zde Kvidově matce shovívavě objasní podstatu občanského práva).
 
 Příští vývoj v ČSFR však Pacovi přináší čím dál větší zklamání. Rezignuje na svou funkci v tzv. Studentském parlamentu, přerušuje studium a s pocitem, že mu revoluci někdo ukradl, odjíždí na stipendijní pobyt do Spojených států.
@@ -36,3 +38,5 @@ Kvidova matka nemá na zázraky čas, neboť do konce října musí odevzdat ná
 12\. září přilétá z chorvatské Puly, ohrožované srbskými nacionalisty, Mirjana; Kvidova matka jí poskytuje politický azyl.
 
 10\. října odevzdává Kvido do nakladatelství Československý spisovatel rukopis románu Báječná léta pod psa.
+
+</section>

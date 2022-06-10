@@ -3,20 +3,26 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 ### 1
 
 Vilka pod Skřivánkem, kam se po matčině návratu z porodnice rodina definitivně nastěhovala, připomínala babičce Líbě jeden malý roztomilý dívčí penzión v Lausanne, kde kdysi dávno několikrát pobývala. Táž podezdívka z červeného pískovce, tytéž okrové okenní rámy, velmi podobná veranda, obrostlá psím vínem, i ty prý téměř identicky rozmístěné smrky a túje na zahradě v ní vyvolávaly velmi sentimentální vzpomínky.
 
 Na jaře toho roku odjela se dvěma přítelkyněmi na zájezd do Německé demokratické republiky. Necelý týden zde žily uprostřed nádherné, probouzející se přírody Harckého lesa – avšak tím více skličoval babičku blížící se návrat do špinavého, zakouřeného města. Poslední dobou trpěla totiž některými dýchacími obtížemi, které bez výjimky přikládala na vrub ovzduší v Praze, a podobně jako obě její přítelkyně nevylučovala zcela možnost, že má rakovinu plic.
 
-  
+</section>
+
+<section>
 
 V restauraci v Harckém lese  
 vrchní kávu, dorty nese.  
 Když si každý dal,  
 volá: Noch einmal!
 
-  
+</section>
+
+<section>
 
 veršovala sice na černobílé pohlednici tradičně, ale pak následoval nezvyklý a podivný prozaický dodatek: Dýcháme kyslík do zásoby – snad nám v té Praze vydrží! napsala.
 
@@ -737,3 +743,5 @@ Kvidova otce píchlo pod prsní kostí.
 „Ano?“ řekl naoko pobaveně.
 
 „Asi pojedeš ty,“ oznámil mu vesele Šperk. „Mládí vpřed, ne? Musel jsem se ovšem za tebe zaručit.“
+
+</section>

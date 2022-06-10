@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 ### 1
 
 Kariéra Kvidova otce skončila na sklonku léta roku devatenáct set sedmdesát sedm, a to tak rychle, jak náhle začala.
@@ -108,7 +110,9 @@ aby se život rozletěl jak pták,
 aby se láska stala dobrou písní,  
 se kterou dá se letět do oblak!“
 
-  
+</section>
+
+<section>
 
 recitovala Kvidova matka se směsicí ironie a sentimentu, když se onoho odpoledne oblékala k domluvenému táboráku.
 
@@ -187,3 +191,5 @@ Kvidův otec nedokázal odpovědět.
 Kvidova matka uchopila své syny za ruce.
 
 „No běžte,“ řekl Šperk. „Běžte, běžte.“
+
+</section>

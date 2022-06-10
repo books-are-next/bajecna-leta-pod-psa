@@ -3,6 +3,8 @@ title: XV
 contentType: prose
 ---
 
+<section>
+
 _Návštěvní den v kutnohorské nemocnici. Novopečení otcové a ostatní příbuzní stojí na pošlapaném trávníku před pavilónem porodnice. Rodičky se vyklánějí z oken ve třetím patře._
 
 **JARUŠKA** (_s nepředstíranou radostí_): Ahoj! Jste tu brzo, to je fajn.
@@ -90,3 +92,5 @@ _Anička se probouzí a pláče._
 **JARUŠKA** (_polyká slzy_): Zamáváš nám?
 
 **KVIDO**: To víš, že zamávám.
+
+</section>

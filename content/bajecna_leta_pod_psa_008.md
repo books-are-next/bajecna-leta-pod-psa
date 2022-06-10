@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 ### 1
 
 Kvidova matka byla vždy přesvědčena, že Paco byl počat první červnovou sobotu roku devatenáct set sedmdesát, asi čtvrt hodiny před půlnocí. Tvrdí, že se tak stalo jen několik metrů od dohasínajícího táboráku ve vojenském spacím pytli, během Krylovy písně Salome, kterou své novopečené manželce (s níž se konečně z transformátoru přestěhoval na manželskou ubytovnu) nedaleko hrál a zpíval ing. Zvára. Tento předpoklad jí pak samozřejmě umožňoval zdánlivě racionálně vysvětlovat Pacovu pozdější trampskou vášeň. Kvidův otec ale od počátku označoval takové vývody za vulgární vlivologii a matčinu hypotézu s početím ostatně odmítal celou, argumentuje přitom poměrně dobrou znalostí jejích cyklů.
@@ -521,3 +523,5 @@ Teprve nyní mu Šperkova zpráva začínala docházet. Cítil obrovskou radost 
 „Vlčáci?“ zděsil se Kvidův otec. „Ještě to tak! Žena by umřela strachy. Zrovna s vlčákem zažila před lety dost ošklivou příhodu. Kdepak ona a pes!“
 
 „Jakej pes?“ řekl Šperk s úsměvem. „Říkám ti přece, že je to štěně!“
+
+</section>

@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 ### 1
 
 Kvidova matka celou zimu přemýšlela, jak svého muže rozptýlit, aby přestal myslet na smrt. Byl s prací na rakvi prakticky u konce a ona se hrozila toho, co přijde dál.
@@ -220,3 +222,5 @@ Především bylo třeba sestavit seznam hostů, aby mohly být včas rozeslány
 „Nějak to dopadne,“ ubezpečovala Kvidova matka s úsměvem Jarušku, která jí jako jediná často přicházela pomoci. Praktický ráz příprav je obě rychle sblížil – a když je Kvido jednoho dne zastihl slzící od smíchu a s rukama vzájemně propletenýma, jak se marně snažily poskládat bílou mašličku k myrtě, zakusil poprvé onen nádherný, uklidňující pocit nejhlubšího možného bezpečí.
 
 „Je těžké to nějak přesněji popsat,“ vyprávěl Kvido, „ale představte si třeba, že vám za deště ke zcela vyhovující pláštěnce náhle přibude ještě deštník.“
+
+</section>
