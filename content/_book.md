@@ -9,7 +9,7 @@ meta:
   author: Michal Viewegh
   publisher: Městská knihovna v Praze
   modified: '2021-07-21T08:54:05.697Z'
-  isbn: ''
+  isbn: 978-80-274-2466-5
   languageCode: cs
   edition: beletrie
   publisherShort: mkp
@@ -36,45 +36,48 @@ readingOrder:
   - bajecna_leta_pod_psa_023.html
   - colophon.html
 tocBase:
-  - link: bajecna_leta_pod_psa_005.html
-    title: Tento román...
-    hiddenTitle: true
-  - link: bajecna_leta_pod_psa_006.html
-    title: I
-  - link: bajecna_leta_pod_psa_007.html
-    title: "II. Z\_Kvidova deníku"
-  - link: bajecna_leta_pod_psa_008.html
-    title: III
-  - link: bajecna_leta_pod_psa_009.html
-    title: IV
-  - link: bajecna_leta_pod_psa_010.html
-    title: V
-  - link: bajecna_leta_pod_psa_011.html
-    title: VI
-  - link: bajecna_leta_pod_psa_012.html
-    title: VII
-  - link: bajecna_leta_pod_psa_013.html
-    title: VIII
-  - link: bajecna_leta_pod_psa_014.html
-    title: IX
-  - link: bajecna_leta_pod_psa_015.html
-    title: X
-  - link: bajecna_leta_pod_psa_016.html
-    title: XI
-  - link: bajecna_leta_pod_psa_017.html
-    title: XII
-  - link: bajecna_leta_pod_psa_018.html
-    title: XIII
-  - link: bajecna_leta_pod_psa_019.html
-    title: XIV
-  - link: bajecna_leta_pod_psa_020.html
-    title: XV
-  - link: bajecna_leta_pod_psa_021.html
-    title: XVI
-  - link: bajecna_leta_pod_psa_022.html
-    title: XVII
-  - link: bajecna_leta_pod_psa_023.html
-    title: EPILOG
+  - id: section-1
+    children:
+      - link: bajecna_leta_pod_psa_005.html
+        title: Tento román...
+        hiddenTitle: true
+      - link: bajecna_leta_pod_psa_006.html
+        title: I
+      - link: bajecna_leta_pod_psa_007.html
+        title: "II. Z\_Kvidova deníku"
+      - link: bajecna_leta_pod_psa_008.html
+        title: III
+      - link: bajecna_leta_pod_psa_009.html
+        title: IV
+      - link: bajecna_leta_pod_psa_010.html
+        title: V
+      - link: bajecna_leta_pod_psa_011.html
+        title: VI
+      - link: bajecna_leta_pod_psa_012.html
+        title: VII
+      - link: bajecna_leta_pod_psa_013.html
+        title: VIII
+      - link: bajecna_leta_pod_psa_014.html
+        title: IX
+      - link: bajecna_leta_pod_psa_015.html
+        title: X
+      - link: bajecna_leta_pod_psa_016.html
+        title: XI
+      - link: bajecna_leta_pod_psa_017.html
+        title: XII
+      - link: bajecna_leta_pod_psa_018.html
+        title: XIII
+      - link: bajecna_leta_pod_psa_019.html
+        title: XIV
+      - link: bajecna_leta_pod_psa_020.html
+        title: XV
+      - link: bajecna_leta_pod_psa_021.html
+        title: XVI
+      - link: bajecna_leta_pod_psa_022.html
+        title: XVII
+      - link: bajecna_leta_pod_psa_023.html
+        title: EPILOG
+    isSection: true
 static:
   - style
   - scripts
