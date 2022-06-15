@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-093ec64';
+const CACHE = 'cache-0d5e38b';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./bajecna_leta_pod_psa_005.html","./bajecna_leta_pod_psa_006.html","./bajecna_leta_pod_psa_007.html","./bajecna_leta_pod_psa_008.html","./bajecna_leta_pod_psa_009.html","./bajecna_leta_pod_psa_010.html","./bajecna_leta_pod_psa_011.html","./bajecna_leta_pod_psa_012.html","./bajecna_leta_pod_psa_013.html","./bajecna_leta_pod_psa_014.html","./bajecna_leta_pod_psa_015.html","./bajecna_leta_pod_psa_016.html","./bajecna_leta_pod_psa_017.html","./bajecna_leta_pod_psa_018.html","./bajecna_leta_pod_psa_019.html","./bajecna_leta_pod_psa_020.html","./bajecna_leta_pod_psa_021.html","./bajecna_leta_pod_psa_022.html","./bajecna_leta_pod_psa_023.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_bajecna_leta_s_k_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./bajecna_leta_pod_psa_005.html","./bajecna_leta_pod_psa_006.html","./bajecna_leta_pod_psa_007.html","./bajecna_leta_pod_psa_008.html","./bajecna_leta_pod_psa_009.html","./bajecna_leta_pod_psa_010.html","./bajecna_leta_pod_psa_011.html","./bajecna_leta_pod_psa_012.html","./bajecna_leta_pod_psa_014.html","./bajecna_leta_pod_psa_013.html","./bajecna_leta_pod_psa_015.html","./bajecna_leta_pod_psa_018.html","./bajecna_leta_pod_psa_017.html","./bajecna_leta_pod_psa_016.html","./bajecna_leta_pod_psa_019.html","./bajecna_leta_pod_psa_020.html","./bajecna_leta_pod_psa_021.html","./bajecna_leta_pod_psa_023.html","./bajecna_leta_pod_psa_022.html","./colophon.html","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_bajecna_leta_s_k_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
