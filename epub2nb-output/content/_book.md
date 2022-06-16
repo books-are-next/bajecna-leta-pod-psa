@@ -13,6 +13,7 @@ meta:
   languageCode: cs
   edition: beletrie
   publisherShort: mkp
+  contentType: prose
 readingOrder:
   - promo.html
   - bajecna_leta_pod_psa_005.html

@@ -9,7 +9,8 @@
       "isbn": "978-80-274-2466-5",
       "languageCode": "cs",
       "edition": "beletrie",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -508,6 +509,6 @@
       "user": "books-are-next",
       "repo": "bajecna-leta-pod-psa"
     },
-    "generatedAt": 1655271084072
+    "generatedAt": 1655364056480
   }
 }
