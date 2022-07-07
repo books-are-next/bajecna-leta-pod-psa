@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-bajecna-leta-pod-psa-8b19238",
-  "revision": "8b19238",
+  "identifier": "viewegh-bajecna-leta-pod-psa-2957e79",
+  "revision": "2957e79",
   "readingOrder": [
     "promo.html",
     "bajecna_leta_pod_psa_005.html",
@@ -31,11 +31,11 @@
     "bajecna_leta_pod_psa_021.html",
     "bajecna_leta_pod_psa_022.html",
     "bajecna_leta_pod_psa_023.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Jun 28 2022 11:30:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656415828207
+    "date": "Thu Jul 07 2022 08:14:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181685089
   },
   "documents": [
     {
@@ -419,7 +419,7 @@
       "role": "chapter",
       "order": 19,
       "prev": "bajecna_leta_pod_psa_022.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -432,11 +432,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 144,
-      "chars": 930,
+      "chars": 929,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "bajecna_leta_pod_psa_023.html",
       "next": null,
@@ -454,7 +454,7 @@
   "totals": {
     "all": {
       "words": 49708,
-      "chars": 309995,
+      "chars": 309994,
       "ideas": 2427
     },
     "chapters": {

@@ -64,7 +64,7 @@
             "xhtml": "bajecna_leta_pod_psa_003.xhtml",
             "title": "",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -74,7 +74,7 @@
             "xhtml": "bajecna_leta_pod_psa_004.xhtml",
             "title": "",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -276,7 +276,7 @@
             "xhtml": "bajecna_leta_pod_psa_024.xhtml",
             "title": "",
             "id": 23,
-            "role": "colophon",
+            "role": "about",
             "inToc": true,
             "listType": "plain",
             "children": []
@@ -509,6 +509,6 @@
       "user": "books-are-next",
       "repo": "bajecna-leta-pod-psa"
     },
-    "generatedAt": 1656415723047
+    "generatedAt": 1657181600360
   }
 }

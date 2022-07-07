@@ -35,7 +35,7 @@ readingOrder:
   - bajecna_leta_pod_psa_021.html
   - bajecna_leta_pod_psa_022.html
   - bajecna_leta_pod_psa_023.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
