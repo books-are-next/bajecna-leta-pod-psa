@@ -60,7 +60,7 @@
         "xhtml": "bajecna_leta_pod_psa_003.xhtml",
         "title": "",
         "id": 2,
-        "role": "colophon",
+        "role": "about",
         "inToc": false,
         "listType": "plain",
         "children": []
@@ -70,7 +70,7 @@
         "xhtml": "bajecna_leta_pod_psa_004.xhtml",
         "title": "",
         "id": 3,
-        "role": "colophon",
+        "role": "about",
         "inToc": false,
         "listType": "plain",
         "children": []
@@ -272,7 +272,7 @@
         "xhtml": "bajecna_leta_pod_psa_024.xhtml",
         "title": "",
         "id": 23,
-        "role": "colophon",
+        "role": "about",
         "inToc": true,
         "listType": "plain",
         "children": []
