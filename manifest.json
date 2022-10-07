@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-bajecna-leta-pod-psa-b7b2f65",
-  "revision": "b7b2f65",
+  "identifier": "viewegh-bajecna-leta-pod-psa-c008573",
+  "revision": "c008573",
   "readingOrder": [
     "promo.html",
     "bajecna_leta_pod_psa_005.html",
@@ -34,8 +34,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:46:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923581640
+    "date": "Fri Oct 07 2022 13:58:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151086289
   },
   "documents": [
     {
